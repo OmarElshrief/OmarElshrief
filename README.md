@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **  AWS & DevOps Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omarelshrief](https://github.com/OmarElshrief)
+- 👨‍💻 All of my projects are available at [https://github.com/omarelshrief](https://github.com/OmarElshrief?tab=repositories)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RTvtA2070aiq7bjCLTLA0juWQMvC5OtY/view?usp=sharing]
 
