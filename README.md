@@ -2,6 +2,7 @@
 <h3 align="center"> Junior Cloud DevOps Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelshrief&label=Profile%20views&color=0e75b6&style=flat" alt="omarelshrief" /> </p>
+[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarelshrief" alt="omarelshrief" /></a> </p>
 
